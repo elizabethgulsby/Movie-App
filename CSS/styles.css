@@ -8,10 +8,13 @@ img {
 	margin:  10px;
 }
 
-.now-playing {
+.genre-description {
 	color:  white;
 	text-align: center;
 }
 
+/* .genre {
+	float:  right;
+} */
 
 
