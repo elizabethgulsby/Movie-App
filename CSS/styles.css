@@ -1,4 +1,17 @@
 body {
-	background-color: yellow;
-	
+	background-color: black;
+
 }
+
+img {
+	max-width: 100%;
+	margin:  10px;
+}
+
+.now-playing {
+	color:  white;
+	text-align: center;
+}
+
+
+
