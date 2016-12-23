@@ -13,8 +13,8 @@ img {
 	text-align: center;
 }
 
-/* .genre {
-	float:  right;
-} */
-
+img:hover {
+	transform:  scale(1.05);
+	transition: ease-in;
+}
 
